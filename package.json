@@ -2,6 +2,7 @@
   "name": "single-page-application",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://muhammadsumamakhan.github.io/-Single-Page-Application/",
   "type": "module",
   "scripts": {
     "dev": "vite",
